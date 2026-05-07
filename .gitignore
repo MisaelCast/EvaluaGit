@@ -1,0 +1,11 @@
+node_modules/
+.pnpm-store/
+.env
+.env.*
+dist/
+build/
+.DS_Store
+.agents/
+contex.md
+repomix-output.xml
+.agents
